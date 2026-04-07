@@ -1,10 +1,8 @@
-﻿# LocalVLM-FastAPI-Demo
+﻿# 基于 vLLM + FastAPI 的本地多模态推理演示项目
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
 ---
-
-# 基于 vLLM + FastAPI 的本地多模态推理演示项目
 
 一个面向**大模型部署入门 / 推理服务工程化演示**的小型项目。
 

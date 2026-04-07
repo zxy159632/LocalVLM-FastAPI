@@ -4,8 +4,6 @@
 
 ---
 
-# Qwen Local Multimodal Demo
-
 A compact local multimodal inference demo built with `vLLM` and `FastAPI`.
 
 This project turns a locally served Qwen model into a small but complete demo application with:
