@@ -1,4 +1,4 @@
-﻿# 基于 vLLM + FastAPI 的本地多模态推理演示项目
+﻿# 基于 vLLM + FastAPI 的本地多模态推理
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
